@@ -4,17 +4,17 @@
   "background_color": "#2196F3",
   "icons": [
     {
-      "src": "launcher-icon-1x.png",
+      "src": "icons/utn48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "launcher-icon-2x.png",
+      "src": "icons/utn96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "launcher-icon-4x.png",
+      "src": "icons/utn192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
